@@ -28,6 +28,7 @@ gem 'jbuilder', '~> 1.2'
 
 gem 'haml-rails'
 gem 'bootstrap-sass'
+gem 'bootstrap-datepicker-rails'
 
 group :doc do
   # bundle exec rake doc:rails generates the API under doc/api.
